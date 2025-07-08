@@ -1,4 +1,4 @@
-🔍 Port Scanner - Phase 2 (Multithreaded)
+🔍 Port Scanner (Multithreaded)
 
 A simple and educational **port scanner** written in **Python**, designed to scan a **range of ports** quickly using **multithreading**. Ideal for learning how network scanning works.
 
