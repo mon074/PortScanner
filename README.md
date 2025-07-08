@@ -32,10 +32,10 @@ A simple and educational **port scanner** written in **Python**, designed to sca
 
 ✅ End port (e.g., 100)
 
-The program will scan ports from 1 to 100 and show which ones are open.
+The program will scan ports from 20 to 100 and show which ones are open.
 
 
-```bash
+bash:
 python port_scanner.py
 
 ⚠️ Disclaimer
@@ -43,7 +43,7 @@ This tool is for educational purposes only.
 Do not scan any system you don’t own or don’t have permission to test. Unauthorized scanning can be illegal.
 
 👩‍💻 Author
-Made by Divya Raghuvanshi (mon074)
+Made by Divyanka Raghuvanshi (mon074)
 
 
 
